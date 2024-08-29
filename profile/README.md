@@ -1,5 +1,3 @@
-
-
 [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhorg?style=social)](https://github.com/likhonsheikhorg)
 [![Join Telegram](https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/likhondotxyz)
 
@@ -7,8 +5,8 @@
 
 ## 👋 About Me
 
-- 🌍 **Location:** United States of America
-- 💻 **Profession:** Full-stack Developer
+- 🌍 **Location:** {{location}}
+- 💻 **Profession:** {{job_title}} at {{company}}
 - 🛠 **Specialization:** TypeScript & Python
 - 🌐 **Website:** [likhonsheikh.com](https://likhonsheikh.com)
 
@@ -18,6 +16,8 @@
 
 - 💬 **Telegram:** [@likhondotxyz](https://t.me/likhondotxyz)
 - 📧 **Email:** [me@likhonsheikh.com](mailto:me@likhonsheikh.com)
+- 🐙 **GitHub:** [{{display_name}}](https://github.com/likhon-xyz)
+- 🐦 **Twitter:** [@likhondotxyz](https://twitter.com/likhondotxyz)
 
 ---
 
