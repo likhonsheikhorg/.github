@@ -22,24 +22,6 @@ We're a passionate team specializing in TypeScript and Python development, focus
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 
-## Top Repositories
-------------------
-
-### oAMPP
-
-[![oAMPP](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhorg&repo=oAMPP&theme=radical)](https://github.com/likhonsheikhorg/oAMPP)
-
-## Latest Blog Posts
---------------------
-
-### Featured Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding JavaScript Closures](https://likhonsheikh.com/blog/javascript-closures)
-- [Introduction to Python Decorators](https://likhonsheikh.com/blog/python-decorators)
-- [Building Scalable Web Apps with TypeScript](https://likhonsheikh.com/blog/scalable-web-apps)
-<!-- BLOG-POST-LIST:END -->
-
 ## Connect with Us
 ------------------
 
@@ -66,5 +48,3 @@ We're a passionate team specializing in TypeScript and Python development, focus
 [![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge)](https://github.com/likhonsheikhorg)
 
 ---
-
-⭐️ From [Likhon Sheikh](https://github.com/
