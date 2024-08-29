@@ -1,46 +1,45 @@
+# Hello, I'm {{display_name}} 👋
+
 [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhorg?style=social)](https://github.com/likhonsheikhorg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/likhondotxyz?style=social)](https://twitter.com/likhondotxyz)
 [![Join Telegram](https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/likhondotxyz)
 
----
+## 🚀 About Me
+I'm a passionate {{job_title}} at {{company}}, specializing in TypeScript and Python development. With a focus on creating robust and scalable solutions, I strive to push the boundaries of what's possible in web development.
 
-## 👋 About Me
+- 🌍 Based in {{location}}
+- 💼 Currently working on [oAMPP](https://github.com/likhonsheikhorg/oAMPP)
+- 🌱 Always learning and exploring new technologies
+- 👯 Open to collaborations on innovative projects
 
-- 🌍 **Location:** {{location}}
-- 💻 **Profession:** {{job_title}} at {{company}}
-- 🛠 **Specialization:** TypeScript & Python
-- 🌐 **Website:** [likhonsheikh.com](https://likhonsheikh.com)
+## 🛠️ Skills & Technologies
 
----
-
-## 📬 Connect with Me
-
-- 💬 **Telegram:** [@likhondotxyz](https://t.me/likhondotxyz)
-- 📧 **Email:** [me@likhonsheikh.com](mailto:me@likhonsheikh.com)
-- 🐙 **GitHub:** [{{display_name}}](https://github.com/likhon-xyz)
-- 🐦 **Twitter:** [@likhondotxyz](https://twitter.com/likhondotxyz)
-
----
+```python
+skills = {
+    "Languages": ["TypeScript", "Python", "JavaScript"],
+    "Frontend": ["React", "Next.js", "Vue.js"],
+    "Backend": ["Node.js", "Django", "Flask"],
+    "Databases": ["PostgreSQL", "MongoDB", "Redis"],
+    "DevOps": ["Docker", "Kubernetes", "AWS", "CI/CD"],
+    "Tools": ["Git", "VSCode", "Postman"]
+}
+```
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/likhonsheikhorg/oAMPP">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhorg&repo=oAMPP" />
-</a>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  <img src="https://github-readme-stats.vercel.app/api?username=likhonsheikhorg&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhorg&theme=radical" alt="GitHub Streak" />
+</p>
 
-## 🛠 Skills
+## 🏆 Top Repositories
 
-- **Languages:** TypeScript, Python
-- **Development:** Full-stack Development, RESTful APIs, Web Applications
-- **Frameworks & Libraries:** React, Node.js, Django
-- **Tools & Platforms:** Git, Docker, AWS
-
----
+<a href="https://github.com/likhonsheikhorg/oAMPP">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhorg&repo=oAMPP&theme=radical" />
+</a>
 
 ## 📝 Latest Blog Posts
 
@@ -50,22 +49,26 @@
 - [Building Scalable Web Apps with TypeScript](https://likhonsheikh.com/blog/scalable-web-apps)
 <!-- BLOG-POST-LIST:END -->
 
----
+## 🤝 Connect with Me
+
+[![Website](https://img.shields.io/badge/Website-likhonsheikh.com-blue?style=flat-square&logo=google-chrome)](https://likhonsheikh.com)
+[![GitHub](https://img.shields.io/badge/GitHub-likhon--xyz-blue?style=flat-square&logo=github)](https://github.com/likhon-xyz)
+[![Twitter](https://img.shields.io/badge/Twitter-likhondotxyz-blue?style=flat-square&logo=twitter)](https://twitter.com/likhondotxyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-likhonsheikh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/likhonsheikh)
+[![Email](https://img.shields.io/badge/Email-me%40likhonsheikh.com-blue?style=flat-square&logo=gmail)](mailto:me@likhonsheikh.com)
 
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=likhonsheikhorg&theme=github" alt="Contribution Graph">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=likhonsheikhorg&theme=github-compact" alt="Contribution Graph" />
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open a pull request or an issue.
-
----
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+⭐️ From [{{display_name}}](https://github.com/likhonsheikhorg)
