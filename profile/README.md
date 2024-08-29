@@ -25,16 +25,11 @@ We're a passionate team specializing in TypeScript and Python development, focus
 ## Connect with Us
 ------------------
 
-### Social Media
-
 [![Website](https://img.shields.io/badge/Website-likhonsheikh.com-blue?style=flat-square&logo=google-chrome)](https://likhonsheikh.com)
 [![GitHub](https://img.shields.io/badge/GitHub-likhon--xyz-blue?style=flat-square&logo=github)](https://github.com/likhon-xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-likhondotxyz-blue?style=flat-square&logo=twitter)](https://twitter.com/likhondotxyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-likhonsheikh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/likhonsheikh)
 [![Email](https://img.shields.io/badge/Email-me%40likhonsheikh.com-blue?style=flat-square&logo=gmail)](mailto:me@likhonsheikh.com)
-
-## Contribution Graph
----------------------
 
 ### Activity
 
@@ -42,8 +37,6 @@ We're a passionate team specializing in TypeScript and Python development, focus
 
 ## Profile Views
 ----------------
-
-### Visitors
 
 [![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge)](https://github.com/likhonsheikhorg)
 
