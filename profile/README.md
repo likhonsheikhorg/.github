@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhorg?style=social)](https://github.com/likhonsheikhorg)
-[![Join Telegram](https://img.shields.io/telegram/follow/likhondotxyz?style=social)](https://t.me/likhondotxyz)
+[![Join Telegram](https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/likhondotxyz)
 
 ### About Me
 
@@ -15,7 +15,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-alpha.vercel.app/api/?username=likhonsheikhorg" alt="Stats">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=likhonsheikhorg" alt="GitHub Stats">
 </p>
 
 <p align="center">
