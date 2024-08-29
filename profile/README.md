@@ -1,5 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhorg?style=social)](https://github.com/likhonsheikhorg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/likhonsheikhorg?style=social)](https://twitter.com/likhonsheikhorg)
+[![Join Telegram](https://img.shields.io/telegram/follow/likhondotxyz?style=social)](https://t.me/likhondotxyz)
 
 ### About Me
 
