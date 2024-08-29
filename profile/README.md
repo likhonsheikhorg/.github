@@ -31,10 +31,6 @@ We're a passionate team specializing in TypeScript and Python development, focus
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-likhonsheikh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/likhonsheikh)
 [![Email](https://img.shields.io/badge/Email-me%40likhonsheikh.com-blue?style=flat-square&logo=gmail)](mailto:me@likhonsheikh.com)
 
-### Activity
-
-[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=likhonsheikhorg&theme=github-compact)](https://github.com/likhonsheikhorg)
-
 ## Profile Views
 ----------------
 
