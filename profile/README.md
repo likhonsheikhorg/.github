@@ -1,3 +1,12 @@
+<!-- Author Information -->
+/**
+ * Likhon Sheikh 
+ *
+ * @author Likhon Sheikh <https://likhonsheikh.com>
+ * @copyright 2023-2024 Likhon Sheikh
+ * @telegram Likhon Sheikh  <https://t.me/likhondotxyz>
+ */ 
+
 [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhorg?style=social)](https://github.com/likhonsheikhorg)
 [![Join Telegram](https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/likhondotxyz)
 
@@ -21,15 +30,13 @@
 
 ## 📊 GitHub Stats
 
-<a href="likhonsheikh.com">
+<a href="https://github.com/likhonsheikhorg/oAMPP">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhorg&repo=oAMPP" />
-  </a>
-## 📊 GitHub Stats
+</a>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=likhonsheikhorg)](https://github.com/likhonsheikhorg)
-<p align="center">
-## 📊 GitHub Stats
 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p>
 
