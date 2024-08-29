@@ -1,13 +1,7 @@
-<h1 align="center">🚀 Likhon Sheikh Organization</h1>
-
 <p align="center">
   <a href="https://github.com/likhonsheikhorg"><img src="https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github" alt="GitHub followers" /></a>
   <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=twitter" alt="Twitter Follow" /></a>
   <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Telegram" /></a>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9DF7&center=true&vCenter=true&width=435&lines=Passionate+TypeScript+Developers;Python+Enthusiasts;Web+Development+Experts;Open+Source+Contributors" alt="Typing SVG" />
 </p>
 
 ## 🌟 About Us
