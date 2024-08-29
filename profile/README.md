@@ -22,17 +22,6 @@ We're a passionate team specializing in TypeScript and Python development, focus
 [![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 
-## GitHub Stats
---------------
-
-### Overview
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhonsheikhorg&show_icons=true&theme=radical)](https://github.com/likhonsheikhorg)
-
-### Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhorg&theme=radical)](https://github.com/likhonsheikhorg)
-
 ## Top Repositories
 ------------------
 
