@@ -22,7 +22,7 @@ jobs:
       run: python update_readme.py
     - name: Commit and push if changed
       run: |
-        git config --global user.email "action@github.com"
-        git config --global user.name "GitHub Action"
+        git config --global user.email "me@likhonsheikh.com"
+        git config --global user.name "likhon-xyz"
         git add -A
         git diff --quiet && git diff --staged --quiet || (git commit -m "Update README" && git push)
