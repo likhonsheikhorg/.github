@@ -20,13 +20,6 @@ We're a dynamic team of developers passionate about crafting innovative solution
   <img src="https://skillicons.dev/icons?i=ts,py,js,react,nodejs,express,mongodb,postgres&theme=light" alt="Tech Stack" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-likhonsheikhorg.vercel.app/api?username=likhonsheikhorg&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats-likhonsheikhorg.vercel.app?user=likhonsheikhorg&theme=react" alt="GitHub Streak" width="48%" />
-</p>
-
 ## 🏆 Our Achievements
 
 - 🌟 Successfully delivered 50+ projects for clients worldwide
