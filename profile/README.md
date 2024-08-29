@@ -5,9 +5,8 @@
 [![Join Telegram](https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/likhondotxyz)
 
 ## 🚀 About Me
-I'm a passionate {{job_title}} at {{company}}, specializing in TypeScript and Python development. With a focus on creating robust and scalable solutions, I strive to push the boundaries of what's possible in web development.
+I'm a passionate specializing in TypeScript and Python development. With a focus on creating robust and scalable solutions, I strive to push the boundaries of what's possible in web development.
 
-- 🌍 Based in {{location}}
 - 💼 Currently working on [oAMPP](https://github.com/likhonsheikhorg/oAMPP)
 - 🌱 Always learning and exploring new technologies
 - 👯 Open to collaborations on innovative projects
