@@ -24,7 +24,7 @@
 <a href="likhonsheikh.com">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhorg&repo=oAMPP" />
   </a>
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=likhonsheikhorg)](https://github.com/likhonsheikhorg)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views">
 </p>
