@@ -1,8 +1,14 @@
-# 🚀 Likhon Sheikh Organization
+<h1 align="center">🚀 Likhon Sheikh Organization</h1>
 
-[![GitHub followers](https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github)](https://github.com/likhonsheikhorg)
-[![Twitter Follow](https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=twitter)](https://twitter.com/likhondotxyz)
-[![Join Telegram](https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/likhondotxyz)
+<p align="center">
+  <a href="https://github.com/likhonsheikhorg"><img src="https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github" alt="GitHub followers" /></a>
+  <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=twitter" alt="Twitter Follow" /></a>
+  <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Telegram" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2C9DF7&center=true&vCenter=true&width=435&lines=Passionate+TypeScript+Developers;Python+Enthusiasts;Web+Development+Experts;Open+Source+Contributors" alt="Typing SVG" />
+</p>
 
 ## 🌟 About Us
 
@@ -11,11 +17,34 @@ We're a dynamic team of developers passionate about crafting innovative solution
 ### 🛠️ Our Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=ts,py,js,react,nodejs,express,mongodb,postgres&theme=light" alt="Tech Stack" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-likhonsheikhorg.vercel.app/api?username=likhonsheikhorg&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats-likhonsheikhorg.vercel.app?user=likhonsheikhorg&theme=react" alt="GitHub Streak" width="48%" />
+</p>
+
+## 🏆 Our Achievements
+
+- 🌟 Successfully delivered 50+ projects for clients worldwide
+- 🚀 Contributed to several open-source projects in the TypeScript and Python ecosystems
+- 🏅 Recognized as a top contributor in the React community
+
+## 📚 Latest Blog Posts
+
+<p align="center">
+  <a href="https://likhonsheikh.com/blog/mastering-typescript">
+    <img src="https://img.shields.io/badge/Mastering%20TypeScript-Advanced%20Tips%20and%20Tricks-blue?style=for-the-badge&logo=typescript" alt="TypeScript Blog" />
+  </a>
+  <a href="https://likhonsheikh.com/blog/scalable-python-apps">
+    <img src="https://img.shields.io/badge/Building%20Scalable%20Python%20Applications-Best%20Practices-green?style=for-the-badge&logo=python" alt="Python Blog" />
+  </a>
+  <a href="https://likhonsheikh.com/blog/react-performance">
+    <img src="https://img.shields.io/badge/React%20Performance-Optimization%20Techniques-cyan?style=for-the-badge&logo=react" alt="React Blog" />
+  </a>
 </p>
 
 ## 🌐 Connect with Us
@@ -27,30 +56,6 @@ We're a dynamic team of developers passionate about crafting innovative solution
   <a href="https://www.linkedin.com/in/likhonsheikh"><img src="https://img.shields.io/badge/LinkedIn-likhonsheikh-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
   <a href="mailto:me@likhonsheikh.com"><img src="https://img.shields.io/badge/Email-me%40likhonsheikh.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhonsheikhorg&show_icons=true&count_private=true&theme=react" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhorg&theme=react" alt="GitHub Streak" />
-</p>
-
-## 🏆 Our Achievements
-
-- 🌟 Successfully delivered 50+ projects for clients worldwide
-- 🚀 Contributed to several open-source projects in the TypeScript and Python ecosystems
-- 🏅 Recognized as a top contributor in the React community
-
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Mastering TypeScript: Advanced Tips and Tricks](https://likhonsheikh.com/blog/mastering-typescript)
-- [Building Scalable Python Applications: Best Practices](https://likhonsheikh.com/blog/scalable-python-apps)
-- [React Performance Optimization Techniques](https://likhonsheikh.com/blog/react-performance)
-<!-- BLOG-POST-LIST:END -->
 
 ## 🤝 Let's Collaborate
 
@@ -67,5 +72,5 @@ We're always open to new opportunities and collaborations. Whether you're lookin
 </p>
 
 <p align="center">
-  Made with ❤️ by Likhon Sheikh Organization
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="Wave" />
 </p>
