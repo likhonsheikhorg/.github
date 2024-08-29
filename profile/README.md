@@ -1,46 +1,49 @@
-# Hello, I'm  Likhon Sheikh 👋
+# Likhon Sheikh
+================
 
 [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhorg?style=social)](https://github.com/likhonsheikhorg)
 [![Twitter Follow](https://img.shields.io/twitter/follow/likhondotxyz?style=social)](https://twitter.com/likhondotxyz)
 [![Join Telegram](https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/likhondotxyz)
 
-## 🚀 About Me
-I'm a passionate specializing in TypeScript and Python development. With a focus on creating robust and scalable solutions, I strive to push the boundaries of what's possible in web development.
+## About Us
+------------
 
-- 💼 Currently working on [oAMPP](https://github.com/likhonsheikhorg/oAMPP)
-- 🌱 Always learning and exploring new technologies
-- 👯 Open to collaborations on innovative projects
+We're a passionate team specializing in TypeScript and Python development, focused on creating robust and scalable solutions that push the boundaries of web development.
 
-## 🛠️ Skills & Technologies
+### Current Projects
 
-```python
-skills = {
-    "Languages": ["TypeScript", "Python", "JavaScript"],
-    "Frontend": ["React", "Next.js", "Vue.js"],
-    "Backend": ["Node.js", "Django", "Flask"],
-    "Databases": ["PostgreSQL", "MongoDB", "Redis"],
-    "DevOps": ["Docker", "Kubernetes", "AWS", "CI/CD"],
-    "Tools": ["Git", "VSCode", "Postman"]
-}
-```
+* [oAMPP](https://github.com/likhonsheikhorg/oAMPP)
 
-## 📊 GitHub Stats
+### Skills & Technologies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhonsheikhorg&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DC6F?style=flat-square&logo=javascript)](https://www.javascript.com/)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react)](https://reactjs.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhorg&theme=radical" alt="GitHub Streak" />
-</p>
+## GitHub Stats
+--------------
 
-## 🏆 Top Repositories
+### Overview
 
-<a href="https://github.com/likhonsheikhorg/oAMPP">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhorg&repo=oAMPP&theme=radical" />
-</a>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=likhonsheikhorg&show_icons=true&theme=radical)](https://github.com/likhonsheikhorg)
 
-## 📝 Latest Blog Posts
+### Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=likhonsheikhorg&theme=radical)](https://github.com/likhonsheikhorg)
+
+## Top Repositories
+------------------
+
+### oAMPP
+
+[![oAMPP](https://github-readme-stats.vercel.app/api/pin/?username=likhonsheikhorg&repo=oAMPP&theme=radical)](https://github.com/likhonsheikhorg/oAMPP)
+
+## Latest Blog Posts
+--------------------
+
+### Featured Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Understanding JavaScript Closures](https://likhonsheikh.com/blog/javascript-closures)
@@ -48,7 +51,10 @@ skills = {
 - [Building Scalable Web Apps with TypeScript](https://likhonsheikh.com/blog/scalable-web-apps)
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Connect with Me
+## Connect with Us
+------------------
+
+### Social Media
 
 [![Website](https://img.shields.io/badge/Website-likhonsheikh.com-blue?style=flat-square&logo=google-chrome)](https://likhonsheikh.com)
 [![GitHub](https://img.shields.io/badge/GitHub-likhon--xyz-blue?style=flat-square&logo=github)](https://github.com/likhon-xyz)
@@ -56,18 +62,20 @@ skills = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-likhonsheikh-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/likhonsheikh)
 [![Email](https://img.shields.io/badge/Email-me%40likhonsheikh.com-blue?style=flat-square&logo=gmail)](mailto:me@likhonsheikh.com)
 
-## 📈 Contribution Graph
+## Contribution Graph
+---------------------
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=likhonsheikhorg&theme=github-compact" alt="Contribution Graph" />
-</p>
+### Activity
 
-## 👀 Profile Views
+[![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=likhonsheikhorg&theme=github-compact)](https://github.com/likhonsheikhorg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</p>
+## Profile Views
+----------------
+
+### Visitors
+
+[![Profile Views](https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge)](https://github.com/likhonsheikhorg)
 
 ---
 
-⭐️ From [{{display_name}}](https://github.com/likhonsheikhorg)
+⭐️ From [Likhon Sheikh](https://github.com/
