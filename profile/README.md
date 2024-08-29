@@ -5,25 +5,25 @@
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<h2>👋 Hi, I'm Likhon Sheikh</h2>
+<h2>👨‍💻 <strong>Hi, I'm Likhon Sheikh</strong> 👋</h2>
 
-<p>I'm a passionate developer with a keen interest in crafting innovative solutions using cutting-edge technologies. My expertise lies in TypeScript and Python development, with a focus on creating robust, scalable, and efficient web applications that push the boundaries of what's possible in the digital realm.</p>
+<p>I'm a <em>passionate developer</em> with a keen interest in crafting <strong>innovative solutions</strong> using cutting-edge technologies. My expertise lies in <code>TypeScript</code> and <code>Python</code> development, with a focus on creating <u>robust, scalable, and efficient web applications</u> that push the boundaries of what's possible in the digital realm.</p>
 
-<h3>🛠️ My Tech Stack</h3>
+<h3>🛠️ <strong>My Tech Arsenal</strong> 💪</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,py,js,react,nodejs,express,mongodb,postgres&theme=light" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=ts,py,js,react,nodejs,express,mongodb,postgres&theme=dark" alt="Tech Stack" />
 </p>
 
-<h2>🏆 My Achievements</h2>
+<h2>🏆 <strong>Achievements Unlocked</strong> 🎉</h2>
 
 <ul>
-  <li>🌟 Successfully delivered 50+ projects for clients worldwide</li>
-  <li>🚀 Contributed to several open-source projects in the TypeScript and Python ecosystems</li>
-  <li>🏅 Recognized as a top contributor in the React community</li>
+  <li>🌟 Successfully delivered <strong>50+ projects</strong> for clients worldwide</li>
+  <li>🚀 Contributed to <em>several open-source projects</em> in the <code>TypeScript</code> and <code>Python</code> ecosystems</li>
+  <li>🏅 Recognized as a <strong>top contributor</strong> in the <code>React</code> community</li>
 </ul>
 
-<h2>📚 Latest Blog Posts</h2>
+<h2>📚 <strong>Code Chronicles</strong> ✍️</h2>
 
 <p align="center">
   <a href="https://likhonsheikh.com/blog/mastering-typescript">
@@ -37,21 +37,21 @@
   </a>
 </p>
 
-<h2>🌐 Connect with Me</h2>
+<h2>🌐 <strong>Connect with Me</strong> 🤝</h2>
 
 <p align="center">
-  <a href="https://likhonsheikh.com"><img src="https://img.shields.io/badge/Website-likhonsheikh.com-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+  <a href="https://likhonsheikh.com"><img src="https://img.shields.io/badge/Portfolio-likhonsheikh.com-blue?style=for-the-badge&logo=google-chrome" alt="Portfolio" /></a>
   <a href="https://github.com/likhon-xyz"><img src="https://img.shields.io/badge/GitHub-likhon--xyz-blue?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/badge/Twitter-likhondotxyz-blue?style=for-the-badge&logo=x" alt="Twitter" /></a>
   <a href="mailto:me@likhonsheikh.com"><img src="https://img.shields.io/badge/Email-me%40likhonsheikh.com-blue?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
-<h2>🤝 Let's Collaborate</h2>
+<h2>🚀 <strong>Let's Collaborate</strong> 💡</h2>
 
-<p>I'm always open to new opportunities and collaborations. Whether you're looking for a developer to bring your project to life or you're a fellow developer interested in joining forces, I'd love to hear from you!</p>
+<p>I'm always <em>excited</em> about new opportunities and collaborations. Whether you're looking for a developer to bring your <strong>project to life</strong> or you're a fellow coder interested in <u>joining forces</u>, I'd love to hear from you!</p>
 
 <p align="center">
-  <a href="https://likhonsheikh.com/contact"><img src="https://img.shields.io/badge/Contact%20Me-Let's%20Talk-brightgreen?style=for-the-badge" alt="Contact Me" /></a>
+  <a href="https://likhonsheikh.com/contact"><img src="https://img.shields.io/badge/Contact%20Me-Let's%20Build%20Something%20Awesome-brightgreen?style=for-the-badge" alt="Contact Me" /></a>
 </p>
 
 <hr>
