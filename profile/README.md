@@ -21,9 +21,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=likhonsheikhorg&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=likhonsheikhorg)](https://github.com/likhonsheikhorg/github-readme-stats)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views">
