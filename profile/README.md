@@ -2,7 +2,7 @@
   <a href="https://github.com/likhonsheikhorg"><img src="https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github" alt="GitHub followers" /></a>
   <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=x" alt="Twitter Follow" /></a>
   <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Telegram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Views" />
 </p>
 
 <h2>👨‍💻 <strong>Hi, I'm Likhon Sheikh</strong> 👋</h2>
