@@ -1,11 +1,4 @@
-<!-- Author Information -->
-/**
- * Likhon Sheikh 
- *
- * @author Likhon Sheikh <https://likhonsheikh.com>
- * @copyright 2023-2024 Likhon Sheikh
- * @telegram Likhon Sheikh  <https://t.me/likhondotxyz>
- */ 
+
 
 [![GitHub followers](https://img.shields.io/github/followers/likhonsheikhorg?style=social)](https://github.com/likhonsheikhorg)
 [![Join Telegram](https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=social&logo=telegram)](https://t.me/likhondotxyz)
