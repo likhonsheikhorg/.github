@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/likhonsheikhorg"><img src="https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github" alt="GitHub followers" /></a>
-  <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=twitter" alt="Twitter Follow" /></a>
-  <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Telegram" /></a>
+<a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=twitter" alt="Twitter Follow" /></a>
+<a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Join%20Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Join Telegram" /></a>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </p>
