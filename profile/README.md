@@ -3,7 +3,7 @@
 
   <h1>Likhon Sheikh</h1>
   <p>
-    <strong>Full-stack • TypeScript & Python!❤️ </strong>  
+    <strong>Full-stack • TypeScript & Python! </strong>  
   </p>
 
 <p align="center">
