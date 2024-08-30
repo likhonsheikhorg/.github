@@ -1,4 +1,28 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/likhositories/.github/main/profile/IMG_0115.jpeg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%;">
+</p>
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1;">
+    <h1>
+      ┏━━━━━━━⍟<br>
+      ┃ Likhon Sheikh 💌<br>
+      ┗━━━━━━━━━━━⊛
+    </h1>
+    
+    <ul>
+      <li>⊙ Software Developer</li>
+      <li>⊙ Open Source Enthusiast</li>
+      <li>⊙ Tech Blogger</li>
+    </ul>
+  </div>
+</div>
+
+<p align="center">
+  <img src="https://github.com/likhositories/.github/blob/main/profile/IMG_0130.jpeg" alt="Banner" width="100%">
+</p>
+
+<p align="center">
   <a href="https://github.com/likhonsheikhorg"><img src="https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github" alt="GitHub followers" /></a>
   <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=x" alt="Twitter Follow" /></a>
   <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
