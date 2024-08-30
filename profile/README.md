@@ -21,16 +21,17 @@
 <p align="center">
   <a href="https://github.com/likhonsheikhorg"><img src="https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github" alt="GitHub followers" /></a>
   <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=x" alt="Twitter Follow" /></a>
+  <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <p align="center">
   <img src="https://github.com/likhositories/.github/blob/main/profile/IMG_0130.jpeg" alt="Banner" width="100%">
-</p>
-  <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
-  <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="" />
 </p>
 
 <h2>👨‍💻 <strong>Hi, I'm Likhon Sheikh</strong> 👋</h2>
 
-<p>I'm a <em>passionate developer</em> with a keen interest in crafting <strong>innovative solutions</strong> using cutting-edge technologies. My expertise lies in <code>TypeScript</code> and <code>Python</code> development, with a focus on creating <u>robust, scalable, and efficient web applications</u> that push the boundaries of what's possible in the digital realm.</p>
+<p>⊙ I'm a <em>passionate developer</em> with a keen interest in crafting <strong>innovative solutions</strong> using cutting-edge technologies. My expertise lies in <code>TypeScript</code> and <code>Python</code> development, with a focus on creating <u>robust, scalable, and efficient web applications</u> that push the boundaries of what's possible in the digital realm.</p>
 
 <h3>🛠️ <strong>My Tech Arsenal</strong> 💪</h3>
 
