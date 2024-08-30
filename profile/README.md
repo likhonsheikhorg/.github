@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/likhositories/.github/main/profile/IMG_0115.jpeg" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 4px solid #ddd; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);">
+  <img src="https://github.com/likhositories/.github/blob/main/profile/Untitled%20design.png" alt="Profile Picture" width="200" height="200" style="border-radius: 50%; border: 4px solid #ddd; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);">
 </p>
 
 <div style="text-align: center;">
