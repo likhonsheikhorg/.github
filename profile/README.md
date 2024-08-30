@@ -6,6 +6,10 @@
     <strong>Software Developer</strong> | <strong>Open Source Enthusiast</strong> | <strong>Tech Blogger</strong>
   </p>
 
+<p align="center">
+  <img src="https://github-stats-alpha.vercel.app/api/?username=likhon-xyz" alt="Likhon Github Stats">
+</p>
+
   <p>
     <a href="https://github.com/likhositories"><img src="https://img.shields.io/github/followers/likhositories?style=for-the-badge&logo=github" alt="GitHub followers"></a>
     <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=x" alt="Twitter Follow"></a>
