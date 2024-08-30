@@ -4,9 +4,9 @@
 
 <div style="text-align: center;">
   <h1 style="font-size: 2.5em; font-weight: bold;">
-    ┏━━━━━━━⍟
-    ┃ Likhon Sheikh 💌
-    ┗━━━━━━━━━━━⊛
+    ┏━━━━⍟
+    ┃⍟ Likhon Sheikh 💌
+    ┗━━━━⊛
   </h1>
   <ul style="list-style: none; padding: 0; font-size: 1.2em;">
     <li>⊙ Software Developer</li>
