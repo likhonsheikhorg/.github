@@ -19,11 +19,10 @@
 </div>
 
 <p align="center">
+  <a href="https://github.com/likhonsheikhorg"><img src="https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github" alt="GitHub followers" /></a>
+<p align="center">
   <img src="https://github.com/likhositories/.github/blob/main/profile/IMG_0130.jpeg" alt="Banner" width="100%">
 </p>
-
-<p align="center">
-  <a href="https://github.com/likhonsheikhorg"><img src="https://img.shields.io/github/followers/likhonsheikhorg?style=for-the-badge&logo=github" alt="GitHub followers" /></a>
   <a href="https://twitter.com/likhondotxyz"><img src="https://img.shields.io/twitter/follow/likhondotxyz?style=for-the-badge&logo=x" alt="Twitter Follow" /></a>
   <a href="https://t.me/likhondotxyz"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram" alt="Telegram" /></a>
   <img src="https://komarev.com/ghpvc/?username=likhonsheikhorg&color=blueviolet&style=for-the-badge" alt="" />
