@@ -5,7 +5,7 @@
 <div style="text-align: center;">
 
   <ul style="list-style: none; padding: 0; font-size: 1.2em;">
-    <li><b><center> Likhon Sheikh <center/><b/></li>
+  <h2 align="center">❛ <li><b><center> Likhon Sheikh <center/><b/></li>
     <li>⊙ Software Developer</li>
     <li>⊙ Open Source Enthusiast</li>
     <li>⊙ Tech Blogger</li>
