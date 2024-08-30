@@ -5,6 +5,7 @@
 <div style="text-align: center;">
 
   <ul style="list-style: none; padding: 0; font-size: 1.2em;">
+    <li>⊙ Name : <b> Likhon Sheikh <b/></li>
     <li>⊙ Software Developer</li>
     <li>⊙ Open Source Enthusiast</li>
     <li>⊙ Tech Blogger</li>
