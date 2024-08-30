@@ -3,7 +3,7 @@
 
   <h1>Likhon Sheikh</h1>
   <p>
-    <strong>Full-stack TypeScript & Python Developer! </strong> | <strong>Open Source Enthusiast</strong> | <strong>Tech Blogger</strong>
+    <strong>Full-stack TypeScript & Python Developer! </strong> | <strong>Open Source Enthusiast</strong> 
   </p>
 
 <p align="center">
